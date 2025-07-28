@@ -1,5 +1,4 @@
-﻿# matriculacion-vehicular
-# matriculación-vehicular
+
 # Sistema Integral de Matriculación Vehicular
 ## Objetivo
 Desarrollar un sistema en C que simule la matriculación vehicular.
